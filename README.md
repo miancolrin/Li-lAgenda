@@ -11,3 +11,5 @@ En este repositorio estan:
   -El código fuente en C
   
   -Un ejecutable .exe precompilado
+
+Creado por @miancolrin
